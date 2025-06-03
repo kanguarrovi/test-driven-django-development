@@ -1,0 +1,4 @@
+# This command is the universal run of tests.
+
+python manage.py test
+
